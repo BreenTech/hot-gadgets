@@ -1,3 +1,15 @@
+.carousel-indicators li {
+    width: 12px;
+    height: 10px;
+    background-color: #8e8e8d;
+    border-radius: 50%;
+}
+.carousel-indicators .active {
+    width: 35px;
+    height: 9px;
+    border-radius: 12px;
+    background-color: orange
+}
 .header img{
     width:130px;
 }
@@ -63,11 +75,11 @@
     font-weight: 600;
 }
 .underline{
-    background-color: orange;
-    height: 5px;
-    width: 135px;
+    background: linear-gradient(to right, yellow, orange);
+    height: 6px;
+    width: 105px;
     position: absolute;
-    left:45%;
+    left:46%;
     margin:4px 0 30px;
     border-radius: 20px;
 }
