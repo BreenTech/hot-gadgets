@@ -1,0 +1,121 @@
+.carousel-indicators li {
+    width: 12px;
+    height: 10px;
+    background-color: #8e8e8d;
+    border-radius: 50%;
+}
+.carousel-indicators .active {
+    width: 35px;
+    height: 9px;
+    border-radius: 12px;
+    background-color: orange
+}
+.header img{
+    width:130px;
+}
+.nav-item{
+    margin-right: 20px;
+}
+
+.banner{
+    padding:0 30px;
+
+}
+.banner h1{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+ p{
+    color: #867e7e;
+}
+
+.buy-now-btn{
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    background-color: black;
+    color: white;
+    cursor:pointer;
+    margin-top: 20px;
+}
+
+
+.smartphone{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.smartphone h3{
+    font-weight: 600;
+}
+.smartphone h5{
+    font-weight: 600;
+    margin-top: 20px;
+}
+.orange{
+    color:orange;
+}
+.card{
+    box-shadow: 5px 5px 40px #e2dbdb;
+    border-radius: 15px;
+    border: none;
+}
+.card img{
+  margin-top: 20px;
+    width:300px;
+}
+
+.categories{
+    margin-top: 110px;
+    height: 700px;
+}
+.category-item{
+    margin-top: 70px;
+}
+.categories h2{
+    font-weight: 600;
+}
+.underline{
+    background: linear-gradient(to right, yellow, orange);
+    height: 6px;
+    width: 105px;
+    position: absolute;
+    left:46%;
+    margin:4px 0 30px;
+    border-radius: 20px;
+}
+.pale-order img{
+    width: 100%;
+}
+.box{
+    width:223px;
+    height: 223px;
+    background-color: white;
+    box-shadow: 5px 5px 40px #d3c9c9 ;
+   
+}
+.bag{
+    border-radius: 5px 10px 5px 30px;
+}
+.beauty{
+    margin-bottom: 35px;
+    border-radius: 10px 5px 30px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
